@@ -18,9 +18,9 @@
 <p>After the user informs this data in the register, the API saves this data in the database, and the application, both Web and Mobile, returns the data informed in the respective fields in which each parameter is triggered.</p>
 
 <p>The following are examples of the Api's test cases</p>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498114523/in/dateposted-public/" title="post"><img src="https://live.staticflickr.com/65535/50498114523_0cf245984e_z.jpg" width="640" height="333" alt="post"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498978812/in/dateposted-public/" title="get_1"><img src="https://live.staticflickr.com/65535/50498978812_2286fbc59d_z.jpg" width="640" height="292" alt="get_1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498978792/in/dateposted-public/" title="get_2"><img src="https://live.staticflickr.com/65535/50498978792_191d7a79a9_z.jpg" width="640" height="331" alt="get_2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498114523/in/dateposted-public/" title="post"><img src="https://live.staticflickr.com/65535/50498114523_0cf245984e_z.jpg" width="640" height="333" alt="post"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498978812/in/dateposted-public/" title="get_1"><img src="https://live.staticflickr.com/65535/50498978812_2286fbc59d_z.jpg" width="640" height="292" alt="get_1"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498978792/in/dateposted-public/" title="get_2"><img src="https://live.staticflickr.com/65535/50498978792_191d7a79a9_z.jpg" width="640" height="331" alt="get_2"></a>
 
 <h3>Languages ​​used in application development</h3>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
