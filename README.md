@@ -27,7 +27,7 @@ on the option to see the orphanage he wants to visit, the web application shows 
 
 <h4>Note: this application to run successfully needs an API, which you can find in this link:
 </h4>
-<p> [API - Happy](https://github.com/LucasAnselmoSilva12345/api_Happy)</p>
+<p>https://github.com/LucasAnselmoSilva12345/api_Happy</p>
 
 <h3>Languages ​​used in application development</h3>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
