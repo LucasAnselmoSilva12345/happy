@@ -8,7 +8,7 @@
 
 <h3>About the project</h3>
 <p>The user can register / search for an orphanage near his current location and, if in search mode, he chooses the orphanage he wants to visit, and after clicking <br/>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498963297/in/dateposted-public/" title="Mapa_Pesquisar_Orfanato"><img src="https://live.staticflickr.com/65535/50498963297_bd62fc99f8.jpg" width="500" height="282" alt="Mapa_Pesquisar_Orfanato"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498963297/in/dateposted-public/" title="Mapa_Pesquisar_Orfanato"><img src="https://live.staticflickr.com/65535/50498963297_bd62fc99f8.jpg" width="500" height="282" alt="Mapa_Pesquisar_Orfanato"></a><br/>
 on the option to see the orphanage he wants to visit, the web application shows the data of that orphanage , as:</p>
 - Name <br/>
 - About <br/>
