@@ -1,4 +1,4 @@
-# Happy - API
+# Happy - Back-end API
 
 <h2>Happy project's Rest API</h2>
 <p> This API is responsible for containing data from the Web project and the Happy mobile application - this project was developed during the **Rocketseat** week, organized by the Rocketseat teaching platform.</p>
