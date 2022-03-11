@@ -1,4 +1,4 @@
-# Happy - Web
+# Happy
 
 <h2>Happy project's Web</h2>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50498810831/in/dateposted-public/" title="Home-Page"><img src="https://live.staticflickr.com/65535/50498810831_337d815b09.jpg" width="500" height="282" alt="Home-Page"></a>
